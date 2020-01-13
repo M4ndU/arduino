@@ -7,9 +7,8 @@ https://mandu-mandu.tistory.com/338
 
 .
 
-.
 
-.
+all.ino는 only_rfid_data_copy.ino와 project.ino를 합친 코드입니다.
 
 .
 
